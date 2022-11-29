@@ -4,6 +4,11 @@
 I am a software developer who is constantly improving himself.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omersahin3" alt="Parply" />
+    <a href="https://github.com/omersahin3/"><img src="https://img.shields.io/github/followers/omersahin3?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"></a>
+</p>
+
 <br><br>
 
 <h2 align="center">Github Stats</h2>

@@ -23,19 +23,35 @@ I am a software developer who is constantly improving himself.
 
 <h2 align="center" background="#E33D80">Github Stats</h2>
 
-<img align="left" alt="omersahin3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omersahin3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true" width="54%"/>
-<img  alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersahin3&langs_count=4&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" width="40.9%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omersahin3&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=omersahin3&show_icons=true&hide=contribs&cache_seconds=86400&bg_color=0D1117&hide_border=true">
+  <img align="left" alt="omersahin3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omersahin3&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true" width="54%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omersahin3&langs_count=6&layout=compact&theme=radical&bg_color=0D1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omersahin3&langs_count=6&layout=compact&bg_color=0D1117&hide_border=true">
+  <img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersahin3&langs_count=6&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" width="40.9%"/>
+</picture>
 
 <br><br>
 
 <p align="center">
-<img alt="GitHub Trophies" src="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&theme=radical&hide_border=true&background=0D1117" width="50%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&theme=radical&hide_border=true&background=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&hide_border=true&background=0D1117">
+    <img alt="GitHub Trophies" src="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&theme=radical&hide_border=true&background=0D1117" width="50%">
+  </picture>
 </p>
 
 <br><br>
 
 <p align="center">
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=omersahin3&theme=radical&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15" width="80%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=omersahin3&theme=radical&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=omersahin3&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=omersahin3&theme=radical&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15" width="80%">
+  </picture>
 </p>
 
 <!--

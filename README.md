@@ -25,12 +25,12 @@ I am a software developer who is constantly improving himself.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omersahin3&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=omersahin3&show_icons=true&hide=contribs&cache_seconds=86400&bg_color=0D1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=omersahin3&show_icons=true&hide=contribs&cache_seconds=86400&hide_border=true">
   <img align="left" alt="omersahin3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omersahin3&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true" width="54%"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omersahin3&langs_count=6&layout=compact&theme=radical&bg_color=0D1117&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omersahin3&langs_count=6&layout=compact&bg_color=0D1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omersahin3&langs_count=6&layout=compact&hide_border=true">
   <img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersahin3&langs_count=6&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" width="40.9%"/>
 </picture>
 
@@ -39,7 +39,7 @@ I am a software developer who is constantly improving himself.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&theme=radical&hide_border=true&background=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&hide_border=true&background=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&hide_border=true">
     <img alt="GitHub Trophies" src="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&theme=radical&hide_border=true&background=0D1117" width="50%">
   </picture>
 </p>

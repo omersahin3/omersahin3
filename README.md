@@ -9,6 +9,15 @@ I am a software developer who is constantly improving himself.
     <a href="https://github.com/omersahin3/"><img src="https://img.shields.io/github/followers/omersahin3?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"></a>
 </p>
 
+<h2 align="center">Tech Stack 🛠</h2>
+
+
+- 💻 &nbsp; <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/Node-6DA55F?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white&labelColor=02569B"> 
+
+- 🖥️ &nbsp; <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white&labelColor=007ACC"> <img src="https://img.shields.io/badge/Android%20Studio-4285F4?style=flat&logo=Android%20Studio&logoColor=white&labelColor=4285F4">
+
+- :cloud: &nbsp; <img src="https://img.shields.io/badge/MS SQL-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=whiteF"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+
 <br><br>
 
 <h2 align="center" background="#E33D80">Github Stats</h2>
